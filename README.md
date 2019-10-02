@@ -10,3 +10,6 @@ Then access http://localhost:3000 in order to test the app.
 
 ## Another way to using Bottle.js
 https://www.bmtrealitystudios.com/dependency-injection-containers-javascript/
+
+## BottleJs in real application
+https://wonderlandlabs.com/article/articles%2Freact%2Fhaving_it_all.md
